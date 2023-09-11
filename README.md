@@ -4,7 +4,7 @@
 
 ![mamorandin GitHub stats](https://github-readme-stats.vercel.app/api?username=mamorandin&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorandin&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorandin&hide_progress=true)
 
 ## ⭐ Tecnologias que utilizo no dia a dia: ⭐
 
